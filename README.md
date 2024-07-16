@@ -1,11 +1,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" width="1000" height="350">
 <h1 align="center">Hi 👋, I'm Harshit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Analytics Trainee from India</h3>
 
 <img align="right" alt="Coding" width="400"
     src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif">
 # 💫 About Me:
-🌱 I’m currently learning React and NodeJS<br><br>💬 Ask me about FrontEnd<br><br>📫 How to reach me meetharshit028@gmail.com<br><br>⚡ Fun fact I think I would like to have fun while traveling.
+🌱 I’m currently learning SQL and ML <br><br>💬 Ask me about Data Analytics<br><br>📫 How to reach me meetharshit028@gmail.com<br><br>⚡ Fun fact I think I would like to have fun while traveling.
 
 
 ## 🌐 Socials:
