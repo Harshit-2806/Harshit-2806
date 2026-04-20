@@ -5,7 +5,8 @@
 <img align="right" alt="Coding" width="400"
     src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif">
 # 💫 About Me:
-🌱 I’m currently learning Machine Learning Algorithms <br><br>💬 Ask me about Data Analytics<br><br>📫 How to reach me meetharshit028@gmail.com<br><br>⚡ Fun fact I think I would like to have fun while traveling.
+🌱 I’m currently learning Machine Learning Algorithms <br><br>💬 Ask me about Data Analytics<br><br>📫 How to reach me harshit.srivastava.data@gmail.com
+<br><br>⚡ Fun fact I think I would like to have fun while traveling.
 
 
 ## 🌐 Socials:
